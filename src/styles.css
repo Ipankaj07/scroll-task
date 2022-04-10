@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  font-size: 16px;
+  padding: 1rem;
+}
+
+ul {
+  margin: 0 auto;
+  max-width: 800px;
+  list-style: none;
+}
+
+li {
+  padding: 1rem;
+  margin: 1rem;
+  min-height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+
+span {
+  display: block;
+  padding: 1rem 0px;
+}
